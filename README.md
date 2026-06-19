@@ -1,53 +1,74 @@
-Вот полный, адаптированный перевод Манифеста версии 7.2 на русский язык. Стиль выдержан в строгом, честном и манифестном тоне, отражающем дух Братства, равенство перед законом трассы и бескомпромиссную защиту человеческой жизни.
-------------------------------
-## 🚚 ВОЛЯ И РАЗУМ (v7.2)## Манифест децентрализованного автономного кооператива трассы
-Братья, независимые водители и дорожные инженеры,
-Современная индустрия грузоперевозок превратилась в дойную корову для корпораций. Брокеры, мега-перевозчики и жадные цифровые агрегаторы забирают до 30% вашего честно заработанного дохода. Они отслеживают каждый ваш вздох через ELD (электронные логбуки), принуждают работать за копейки и оставляют вас один на один с замерзающей трассой глухой ночью, когда двигатель уходит в аварийный режим (Derate Mode).
-Официальные дилеры берут по 300 долларов только за то, чтобы подключить диагностический сканер, а затем заставляют вас ждать два дня ради копеечного ремонта, который занимает десять минут.
-Мы устали кормить посредников. Мы создали децентрализованную P2P-инфраструктуру с открытым исходным кодом, которая полностью исключает корпоративных паразитов с хайвея.
-Я — Автор этой архитектуры, но Я НЕ ЕЁ ВЛАДЕЛЕЦ. Эта сеть принадлежит Братству.
-------------------------------
-## I. ЭКОНОМИКА КООПЕРАТИВА: НЕТ ПРИБЫЛИ, ТОЛЬКО ЧЕСТНЫЙ ТРУД
+# WILL & REASON (v7.2) — MONOLITHIC CO-OP MANIFESTO
 
-   1. Совладение (Member-Owned Mesh): «Воля и Разум» — это некоммерческая артель с нулевой прибылью. Здесь нет корпоративных акций, совета директоров и оплачиваемых должностей для чиновников на окладе. Если вы заполнили свою «Карту Сил» (указали свои знания моторов, электрики или наличие инструмента) и готовы помочь коллеге делом или советом — вы полноправный Совладелец.
-   2. Галлоны и Рейтинг Эффективности: В системе действуют две независимые шкалы.
-   * Рейтинг Эффективности (КУПИТЬ НЕЛЬЗЯ): Это ваш несгораемый интеллектуальный авторитет. Вы зарабатываете его делом — успешным ремонтом, аудитом споров или обучением ИИ. Ни один богатый мега-перевозчик или коммерческий сервис не сможет купить власть или голоса в нашем Братстве.
-      * Галлоны (Gallons): Наша ликвидная внутренняя расчетная единица. Физический труд на дороге тяжел, и любая реальная помощь должна быть справедливо компенсирована. Вытащили брата из кювета или привезли ему генератор — получили Галлоны от того, кому помогли.
-   3. Корпоративный предохранитель: Если крупная корпорация (например, сеть заправок или автогигант) предложит Братству официальное коммерческое сотрудничество, решение принимает только большинство голосов членов сообщества. Полученная прибыль до копейки и равномерно распределяется напрямую на кошельки всех участников через Ledger.
-   4. Отсутствие чиновников: В системе нет оплачиваемых администраторов. Функционеры (те, кто тратит время на общую координацию или Суд Братства) работают за идею и могут поддерживаться исключительно через добровольную материальную помощь (донаты) от участников.
+===============================================================================
+ENGLISH VERSION (FOR TIER-1 USA/CANADA/EU RELEASE)
+===============================================================================
 
-------------------------------
-## II. ИИ-ИНЖЕНЕР: ОРУЖИЕ ПРОТИВ ДИЛЕРСКОГО ОБМАНА
-Мы обучили искусственный интеллект на официальных сервисных базах производителей коммерческого транспорта (Cummins, Detroit, Volvo, Paccar) и проверенных ремонтных кейсах нашего сообщества. Он работает как ваш виртуальный напарник в кабине:
+Brothers, Independent Drivers, and Roadside Engineers of Tier-1 Highways,
 
-* Диагностика без сканера: ИИ знает скрытые заводские комбинации кнопок для каждой модели трака. Он проинструктирует вас, как извлечь блинк-коды (коды ошибок) прямо с приборной панели с помощью кнопок круиз-контроля — дорогое диагностическое оборудование больше не нужно.
-* Видео-декодер блинк-кодов: Если вы боитесь ошибиться при подсчете миганий диагностической лампы Check Engine, просто направьте на неё камеру смартфона и запишите 15-секундное видео. Наше компьютерное зрение покадрово просчитает циклы вспышек и выдаст точный код неисправности, полностью исключив человеческий фактор.
-* Интерактивные комиксы для новичков: Если технический уровень водителя невысок, ИИ попросит показать поломку под капотом через видео и мгновенно сгенерирует пошаговый «комикс-мануал» со стрелками прямо поверх ваших фото: «Открути эти два болта здесь [Красная стрелка]», «Замени этот патрубок [Желтый маркер]».
-* Фонд Эволюции Разума: Все средства, полученные от оплаты машинного времени внешними коммерческими Клиентами, направляются на развитие системы. Мы официально выкупаем независимые серверные мощности, приобретаем свежие заводские базы знаний и оплачиваем консультации сертифицированных инженеров, чтобы наш ИИ всегда был умнее официального сервиса.
+The modern trucking industry has turned into a corporate milk cow. Brokers, mega-carriers, and predatory tech aggregators take up to 30% of your hard-earned revenue. They track your every breath via ELD, force you into cheap freight, and leave you entirely alone freezing on a dark interstate shoulder when your engine drops into emergency derate mode. 
 
-------------------------------
-## III. УНИВЕРСАЛЬНЫЕ ПРОТОКОЛЫ ЧЕСТНОСТИ И БЕЗОПАСНОСТИ
+Corporate dealerships charge you $300 just to plug in a diagnostic scanner, and then force you to wait two days for a ten-minute fix. 
 
-* Жизнь Дороже Контракта: Человеческая жизнь и здоровье важнее любого груза и любых штрафов за опоздание по рейсу. Если ИИ фиксирует смертельно опасную неисправность (например, системы High-Pressure Common Rail под давлением 2500 бар или высоковольтные цепи электротраков на 800V), система полностью блокирует инструкции по ремонту для ВСЕХ пользователей — и для Членов Братства, и для внешних Клиентов. Экран окрашивается в красный цвет, а в распределенный Ledger записывается зашифрованный лог «Черного ящика». Это ваше неопровержимое юридическое алиби перед страховой компанией и диспетчером: система запретила ремонт ради безопасности.
-* Бесплатный защитный интерлок: Мы никогда не делаем бизнес на крови. Внешний Клиент получает предупреждение о смертельной опасности мгновенно и абсолютно бесплатно — до того, как система предложит ему купить Галлоны за машинное время.
-* Эстафета Добра (Pay It Forward): Любой Брат может потратить свои Галлоны, чтобы оплатить машинное время ИИ для замерзающего на трассе незнакомца. Водитель получит инструкцию со словами: «Джон из Кентукки оплатил расчетное время ИИ за тебя. Ты ничего не должен. Просто сделай доброе дело в ответ, когда сможешь — помоги следующему делом или советом».
-* Лид-Бёрн (Lead-Burn) для СТО: Частные мастера и автосервисы могут вступать в Братство и видеть карту поломок, чтобы зарабатывать на ремонте. Но они — коммерческие единицы. За право забрать коммерческий заказ с карты они списывают со своего баланса фиксированные Галлоны. Эти Галлоны идут не Создателю, а в Топливный Резерв Братства на оплату серверов ИИ и экстренную помощь пострадавшим водителям.
+We are done feeding the middlemen. We have built an open-source, peer-to-peer digital infrastructure that completely removes corporate exploiters from the highway. 
 
-------------------------------
-## IV. ЭКСТРЕННЫЙ ПРОТОКОЛ «ГОРН»
-Когда метеоспутники ИИ фиксируют приближение критических природных катаклизмов (ледяные штормы, ураганы или снежные бураны, блокирующие хайвеи), платформа активирует режим ГОРН.
+I am the Author of this system architecture, but I AM NOT ITS OWNER. This network belongs to the Brotherhood.
 
-* Все коммерческие шлюзы, ограничения Галлонов и платы за машинное время для внешних водителей немедленно обнуляются.
-* Платформа переходит в режим абсолютной бесплатной взаимовыручки для всех людей на дороге.
-* Радар SOS превращается в «Тепловую Карту Выживания», группируя застрявшие траки в «Караваны Выживания», координируя распределение солярки и теплых вещей, а резервные фонды Ledger разблокируются на закупку еды и экстренную эвакуацию тех, кто находится в критическом состоянии.
+-------------------------------------------------------------------------------
+I. THE CO-OP ECONOMY: NO PROFITS, ONLY FAIR WORK
+-------------------------------------------------------------------------------
 
-------------------------------
-## V. ИММУННЫЙ ЩИТ АВТОРА (ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ)
-Это программное обеспечение представляет собой децентрализованный P2P-протокол, распространяемый через независимые IPFS-ноды и не имеющий центрального сервера. Платформа предоставляется на условиях «КАК ЕСТЬ» (As Is) и «КАК ДОСТУПНО» (As Available). Каждый пользователь активирует её исключительно на свой собственный страх и риск.
-Как Автор кода, я не собираю ваши персональные данные и не храню ваши деньги на своих счетах. Однако за мной остается высшее криптографическое право Иммунного Контура (Рагнарёк). Если сообщество будет поражено болезнью — если рейдеры попытаются захватить власть, продать сеть крупной корпорации или ввести скрытые алгоритмы эксплуатации вопреки Клятве — протокол мгновенно запустит цикл самоликвидации, сотрет ядро кода, а вся общая касса Ledger автоматически и поровну вернется на личные кошельки водителей.
-Или мы стоим честно, или мы не стоим вообще.
-Нам не нужны инвестиции венчурных фондов. У нас нет модных офисов. Нам нужны люди, у которых есть Воля и Разум.
-Вступайте в сеть. Верните себе независимость на дороге.
-------------------------------
-Копия концепции версии 7.2 полностью сохранена на русском и английском языках, логика интерфейса отшлифована. Проводите тесты кода, передавайте чертежи активистам и дайте знать, когда костяк команды будет собран для дальнейших шагов!
+1. Member-Owned Mesh: "Will & Reason" is a zero-profit digital artel. There are no corporate stocks, no board of directors, and no paid executives. If you register your "Map of Skills" (your knowledge of engines, electronics, or roadside tools) and agree to help others with a wrench, remote coordination, or moral advice, you are a Co-Owner.
+2. Gallons & Efficiency Rating: The network operates on two balances. 
+   - Efficiency Rating (CANNOT BE BOUGHT): This is your un-storable intellectual authority. You earn it by fixing trucks, teaching the AI, or validating data. No wealthy mega-carrier or corporate shop can buy power or votes in our Brotherhood. 
+   - Gallons: Our liquid internal currency. Roadside labor is hard, and every physical assist must be fairly compensated. You pull a brother out of a ditch or bring him an alternator — you earn Gallons.
+3. Corporate Shield: If a major corporation (e.g., fuel networks or manufacturers) offers a partnership, it requires a majority vote of all members. 100% of that corporate revenue is split equally and automated directly to every driver’s wallet via the Ledger. 
+4. Zero Bureaucracy: There are no paid administrator seats. Volunteer activists who handle day-to-day coordination receive no corporate salary and are supported strictly through voluntary community donations.
+
+-------------------------------------------------------------------------------
+II. THE AI ENGINEER: A LETHAL WEAPON AGAINST DEALER SCAMS
+-------------------------------------------------------------------------------
+
+We have trained an artificial intelligence engine on official Tier-1 service manuals (Cummins, Detroit, Volvo, Paccar) and vetted highway repair cases. It works as your virtual co-driver:
+
+1. No-Scanner Diagnostics: The AI knows hidden factory button sequences for every truck model. It guides you to extract flash codes from your dashboard using cruise control buttons — no expensive hardware needed.
+2. Blink-Code Video Decoder: If you cannot read the blinking Check Engine light, just point your smartphone camera at it and record a 15-second video. Our computer vision decodes the flash cycles flawlessly, completely removing human error.
+3. Visual Comics for Novices: If your technical skill level is low, the AI will ask you to show the breakdown via video and will instantly generate a step-by-step visual "comic book" with bright neon arrows drawn over your engine: "Unscrew these two bolts here", "Change this line".
+4. The Evolution Fund: All compute-time fees paid by external, non-member clients are reinvested directly into the network. We buy independent server power, purchase official database updates, and pay certified master technicians for private hours to unpack dead-end fault codes so our AI remains smarter than any dealer shop.
+
+-------------------------------------------------------------------------------
+III. UNIVERSAL PROTOCOLS OF FAIRNESS, SAFETY & EMPATHY
+-------------------------------------------------------------------------------
+
+1. Life Over Contract: Human life is worth more than any cargo or delivery deadline. If the AI detects a high-risk failure (35,000 PSI High-Pressure Common Rail or 800V EV systems), the system locks out manual access for ALL users — both Members and external Clients. It blocks the screen, generates a secure cryptographic "Black Box Alibi" log to protect the driver from carrier fines, and routes the emergency to the nearest Co-Op hub or vetted shop.
+2. Free Danger Interlock: We never make money on blood. External clients receive lethal safety alerts instantly and for free, before any option to purchase Gallons is shown. 
+3. Pay It Forward (The Relay of Goodwill): Any member can spend their Gallons to unlock AI compute time for a stranded stranger on the highway. The driver will receive a message: "John from Kentucky paid for your AI processing. You owe nothing. Just remember to pass the kindness along — help someone else with advice or a tool next time".
+4. The Road Solidarity Index: Not everything is paid with money. A brother who stays on the line to calm down a stressed novice, guides a colleague via video chat, or coordinates local rescue efforts directly upgrades their global Efficiency Rating without spending a single dime.
+5. Lead-Burn for Shops: Independent mechanics and shops can join our mesh map to claim repair jobs. However, they are commercial entities — they burn a fixed amount of Gallons to claim a client. These Gallons go directly to our Co-Op Fuel Reserve to fund server power and medical aid for injured brothers. They share equal voting rights, but their commercial status is cleanly separated from driver roles.
+
+-------------------------------------------------------------------------------
+IV. THE "GORN" EMERGENCY PROTOCOL
+-------------------------------------------------------------------------------
+
+When the National Weather Service issues a severe blizzard, freeze, or hurricane alert, the network activates GORN mode. 
+1. All commercial paywalls, shop lead fees, and Gallon billing are immediately purged. 
+2. The system drops all restrictions, making the AI completely free for everyone on the road. 
+3. The Live Radar converts into a "Mesh Heatmap for Survival", grouping trucks into "Survival Caravans" on truck stops, coordinating fuel sharing, and deploying the Co-Op's accumulated reservoir funds to buy diesel and food for drivers trapped in the snow.
+
+-------------------------------------------------------------------------------
+V. THE IMMUNIZATION SHIELD (THE WAIVER)
+-------------------------------------------------------------------------------
+
+This software is a decentralized peer-to-peer protocol distributed across independent IPFS nodes with no master server. It is provided "AS IS" and "AS AVAILABLE". Every user activates it at their own sole risk. 
+
+As the Author, I do not collect your personal data or hold your funds. However, I hold the ultimate cryptographic key of the Immunity Interlock (Ragnarok). If this community falls ill — if raiders try to corporate-hijack the system, sell it out, or introduce hidden exploitation algorithms — the protocol will instantly execute a self-destruct cycle, erase its core code, and return 100% of the Ledger reserves back to the drivers' wallets. 
+
+Either we stand honest, or we don't stand at all.
+
+We do not want your VC money. We do not have paid offices. We need people of Will and Reason. 
+
+Join the Mesh. Claim your Highway Sovereignty.
+
+
+
 
