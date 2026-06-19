@@ -27,3 +27,23 @@ We trained our artificial intelligence using official service centers of commerc
 
 * Life Is More Valuable Than a Contract: Human life and health are more important than any cargo or any penalties for late arrivals. If the AI ​​detects a life-threatening malfunction (for example, high-pressure common rail systems at 2500 bar or high-voltage circuits in electric trucks at 800 V), the system completely blocks repair instructions for ALL users—both Brotherhood Members and external Clients. The screen turns red, and an encrypted "Black Box" log is written to the distributed Ledger. This is your irrefutable legal alibi before the insurance company and dispatcher: the system blocked the repair for safety reasons.
 * Free protection
+## IV. EMERGENCY PROTOCOL "HORN"
+When AI weather satellites detect the approach of critical natural disasters (ice storms, hurricanes, or snowstorms blocking highways), the platform activates HORN mode.
+
+* All commercial gates, gallon limits, and machine time charges for external drivers are immediately reset.
+* The platform switches to a mode of absolutely free mutual assistance for all people on the road.
+* The SOS Radar turns into a "Survival Heat Map," grouping stranded trucks into "Survival Caravans," coordinating the distribution of diesel fuel and warm clothing, and Ledger reserve funds are released for food purchases and emergency evacuation of those in critical condition.
+------------------------------
+## IV. EMERGENCY PROTOCOL "HORN"
+When AI weather satellites detect the approach of critical natural disasters (ice storms, hurricanes, or snowstorms blocking highways), the platform activates HORN mode.
+
+* All commercial gates, gallon limits, and machine time charges for external drivers are immediately reset.
+* The platform switches to a mode of absolutely free mutual assistance for all people on the road.
+* The SOS radar turns into a "Survival Heat Map," grouping stranded trucks into "Survival Caravans," coordinating the distribution of diesel fuel and warm clothing, and Ledger reserve funds are released for food purchases and emergency evacuation of those in critical condition.
+------------------------------
+## V. AUTHOR'S IMMUNE SHIELD (DISCLAIMER)
+This software is a decentralized P2P protocol distributed through independent IPFS nodes and has no central server. The platform is provided on an "AS IS" and "AS AVAILABLE" basis. Each user activates it at their own risk.
+As the Author of the code, I do not collect your personal data or store your money in my accounts. However, I retain the ultimate cryptographic authority of the Immune Circuit (Ragnarok). If the community is struck by a disease—if raiders attempt to seize power, sell the network to a large corporation, or introduce hidden exploitation algorithms in defiance of the Oath—the protocol will immediately initiate a self-destruct cycle, erase the core code, and the entire shared Ledger fund will automatically and equally return to the drivers' personal wallets.
+Either we stand honestly, or we don't stand at all.
+We don't need venture capital investment. We don't have fancy offices. We need people with Will and Reason.
+Join the network. Reclaim your independence on the road.
